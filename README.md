@@ -103,7 +103,9 @@ ansible all -m ping -i inventory
 📢 **Connect with Me**
 
 💼 LinkedIn: https://www.linkedin.com/in/bharath-kumar-reddy2103/
+
 📄 Medium: https://medium.com/@nbkumar2103
+
 🌎 GitHub: https://github.com/BharathKumarReddy2103
 
 Happy Automation 🚀🔥
