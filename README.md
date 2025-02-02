@@ -87,13 +87,16 @@ ansible all -m ping -i inventory
  ┣ 📂 security            # Security and compliance playbooks
  ┣ 📜 README.md           # Documentation for the repository
  ```
---
+
+---
 
 🎯 **Contribution & Feedback**
 
 🔹 Star this repository ⭐ if you find it useful.
 🔹 Feel free to open issues or submit pull requests for improvements.
 🔹 If you have any suggestions, drop a comment in the Discussions tab.
+
+---
 
 📢 **Connect with Me**
 
