@@ -56,6 +56,8 @@ Run a simple ping command on a remote host:
 ansible all -m ping -i inventory
  ```
 
+---
+
 🚀 **Real-World Ansible Use Cases**
 
 📌 Provisioning Infrastructure – Automate cloud resources like AWS EC2, S3, and security groups.
