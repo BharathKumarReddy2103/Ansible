@@ -59,10 +59,15 @@ ansible all -m ping -i inventory
 🚀 **Real-World Ansible Use Cases**
 
 📌 Provisioning Infrastructure – Automate cloud resources like AWS EC2, S3, and security groups.
+
 📌 Configuration Management – Ensure servers maintain desired configurations automatically.
+
 📌 Application Deployment – Deploy web apps, microservices, and databases with Ansible.
+
 📌 Container Orchestration – Manage Docker containers and Kubernetes clusters using Ansible.
+
 📌 CI/CD Pipeline Integration – Automate deployments in Jenkins, GitLab CI/CD, and GitHub Actions.
+
 📌 Security & Compliance – Enforce security best practices across cloud and on-premise environments.
 
 📂 **Repository Structure**
