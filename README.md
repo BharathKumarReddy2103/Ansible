@@ -22,6 +22,8 @@ Welcome to the Ansible for DevOps repository. This repository contains essential
 
 ✅ Security & Compliance – Ansible automation for security hardening and compliance enforcement.
 
+---
+
 📖 **Getting Started with Ansible**
 
 🔹 **Install Ansible**
