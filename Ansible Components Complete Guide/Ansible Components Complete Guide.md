@@ -214,7 +214,7 @@ tasks:
       state: present
 ```
 
-Using Variables in Playbooks
+**Using Variables in Playbooks**
 
 ```bash
 - name: Install web package
