@@ -123,7 +123,7 @@ tasks:
 
 •	Define the execution order of tasks.
 
-Example:
+**Example:**
 
 ```bash
 - name: Configure Web Server
