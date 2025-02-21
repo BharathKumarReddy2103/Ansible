@@ -236,7 +236,7 @@ tasks:
 
 •	Used to conditionally execute tasks.
 
-Example of Gathering Facts
+**Example of Gathering Facts**
 
 ```bash
 tasks:
