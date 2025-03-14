@@ -189,11 +189,11 @@ ansible <host-pattern> -i <inventory-file> -m <module-name> -a "<module-argument
 
 •	host-pattern: The target hosts (e.g., all, app_servers, db_servers)
 
-•	<inventory-file>: The path to the inventory file
+•	inventory-file: The path to the inventory file
 
-•	<module-name>: The Ansible module to execute (e.g., ping, shell, command)
+•	module-name: The Ansible module to execute (e.g., ping, shell, command)
 
-•	<module-arguments>: Arguments for the module
+•	module-arguments: Arguments for the module
 
 ---
 
