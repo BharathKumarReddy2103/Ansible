@@ -70,7 +70,7 @@ Imagine a **DevOps engineer** is given the task of **installing Docker** on mult
 
 **2.	Step 2**: Check whether **Docker is installed** before proceeding.
 
-**3.	Step 3: If Docker is **not installed**, install it.
+**3.	Step 3**: If Docker is **not installed**, install it.
 
 **Problem:**
 
