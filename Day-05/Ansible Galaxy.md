@@ -2,7 +2,7 @@
 
 **Introduction**
 
-Ansible is a powerful automation tool used for configuration management, application deployment, and orchestration. When managing complex infrastructures, writing extensive Ansible playbooks for every configuration task can become cumbersome. This is where **Ansible Galaxy** comes into play.
+Ansible is a powerful automation tool used for configuration management, application deployment, and orchestration. When managing complex infrastructures, writing extensive Ansible playbooks for every configuration task can become difficult. This is where **Ansible Galaxy** comes into play.
 
 Ansible Galaxy serves as a **public repository of reusable Ansible roles**, helping DevOps engineers leverage existing roles instead of writing everything from scratch. This article provides an in-depth understanding of:
 
