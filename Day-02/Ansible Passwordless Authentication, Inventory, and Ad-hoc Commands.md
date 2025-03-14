@@ -156,7 +156,7 @@ Here:
 ansible all -i inventory.ini -m ping
 ```
 
-•	Run a command on specific groups:
+**•	Run a command on specific groups:**
 
 ```sh
 ansible app_servers -i inventory.ini -m ping
