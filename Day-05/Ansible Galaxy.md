@@ -42,7 +42,7 @@ Before writing a new Ansible role, check if a suitable one exists in **Ansible G
 
 3.	Review the role’s **description, documentation, and GitHub repository.**
 
-For example, searching for "Docker" might return the ** geerlingguy.docker**  role, which is a well-maintained Ansible role for ** Docker installation and configuration.** 
+For example, searching for "Docker" might return the **geerlingguy.docker**  role, which is a well-maintained Ansible role for **Docker installation and configuration.** 
 
 ** Step 2: Installing an Ansible Role** 
 
