@@ -22,7 +22,7 @@ By the end, you'll be able to **structure your Playbooks effectively** and make 
 
 **1. Understanding Ansible Playbooks**
 
-Before diving into **Ansible Roles**, let's revisit the Ansible Playbook structure.
+Before diving into **Ansible Roles**, let's revisit the **Ansible Playbook** structure.
 
 **What is an Ansible Playbook?**
 
