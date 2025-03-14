@@ -45,8 +45,8 @@ is_active: true
 ```sh
 tasks:
    - Deploy application
-	 - Configure web server
-	 - Monitor logs
+   - Configure web server
+   - Monitor logs
 ```
 
 **3.	Dictionaries (Key-Value Nested Structures)**
