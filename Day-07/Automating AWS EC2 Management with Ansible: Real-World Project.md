@@ -208,7 +208,7 @@ This guide covered **real-world AWS automation using Ansible**, including:
 
 By mastering these concepts, you can **automate cloud infrastructure**, improve **CI/CD pipelines**, and **prepare for DevOps interviews.**
 
-📌 **Explore the Code on GitHub**
+📌 **Explore the Code on GitHub.**
 
 💬 **Got Questions?** Drop a comment below.
 
