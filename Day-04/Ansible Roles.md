@@ -291,7 +291,7 @@ Ansible Roles **transform** how **DevOps Engineers** manage automation. By using
 
 •	Simplify **complex Playbooks.**
 
-Start using **Ansible Roles today** to scale your **CI/CD pipelines, Kubernetes deployments**, and **AWS/Azure automation**
+Start using **Ansible Roles today** to scale your **CI/CD pipelines, Kubernetes deployments**, and **AWS/Azure automation.**
 
 Want more **DevOps and Cloud** content? Check out my **GitHub repository** for **open-source contributions**
 
