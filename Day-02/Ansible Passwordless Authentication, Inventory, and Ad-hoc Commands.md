@@ -187,7 +187,7 @@ Ad-hoc commands are quick **one-liner** Ansible commands that allow you to perfo
 ansible <host-pattern> -i <inventory-file> -m <module-name> -a "<module-arguments>"
 ```
 
-•	<host-pattern>: The target hosts (e.g., all, app_servers, db_servers)
+•	host-pattern: The target hosts (e.g., all, app_servers, db_servers)
 
 •	<inventory-file>: The path to the inventory file
 
